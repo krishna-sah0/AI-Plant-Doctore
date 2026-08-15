@@ -1,0 +1,6 @@
+{
+  "name": "AI Plant Doctor",
+  "description": "An intelligent botanical health diagnostic platform that analyzes plant photos, detects diseases, nutrient deficiencies, pests, and provides actionable recovery treatments, watering schedules, and care guidelines.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
