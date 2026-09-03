@@ -1,10 +1,10 @@
 # How to run this project :
 
-- First create a google studio (studio.google.com) API Key then paste in .env file like this : GEMINI_API_KEY=AIzaSyDzpbXoHkeTpPy2Wvi5GyUmC1pIE0Dsc68 .
 - Then run this command in terminal Bash : npm install
 - After that run this command : npm run dev
 
-# The Urban Oasis - A Multifunctional Café Website
+<img width="784" height="458" alt="image" src="https://github.com/user-attachments/assets/711964c6-6de7-4f4d-9850-6f6b25eab4d6" />
+
 
 This project is a modern, responsive single-page application (SPA) for "The Urban Oasis," a conceptual multifunctional café. The website is designed to showcase the café's offerings, which include a food and beverage menu, an amusement zone, wellness services, and event hosting.
 
