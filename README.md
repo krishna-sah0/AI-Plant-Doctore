@@ -8,6 +8,9 @@
 ### 🌐 Live Demo
 Check out the live project here: [https://ai-plant-doctore.onrender.com](https://ai-plant-doctore.onrender.com)
 
+<img width="768" height="456" alt="image" src="https://github.com/user-attachments/assets/a41251af-1336-46f4-b21a-e6c95769a709" />
+
+
 **AI Plant Doctor** is an intelligent botanical health and diagnosis web application. It serves as your personal botanist, helping you identify plant diseases, track your plant's recovery, calculate care requirements, and chat with an AI assistant.
 
 ## ✨ Features
