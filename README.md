@@ -5,6 +5,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8-blue)
 ![Vite](https://img.shields.io/badge/Vite-6.2-purple)
 
+### 🌐 Live Demo
+Check out the live project here: [https://ai-plant-doctore.onrender.com](https://ai-plant-doctore.onrender.com)
+
 **AI Plant Doctor** is an intelligent botanical health and diagnosis web application. It serves as your personal botanist, helping you identify plant diseases, track your plant's recovery, calculate care requirements, and chat with an AI assistant.
 
 ## ✨ Features
